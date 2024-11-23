@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(255, 108, 248, 0.24);
+}
+
+
+
+.img{
+    width: 150px ;
+    height: 150px ;
+    border-radius: 50%;
+
+}
+
+.hedder{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    background-color: #fff; 
+    padding-left: 20px;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+}
+.hed{
+    font-size: 30px;
+}
+.contaner{
+    display: inline-flex;
+}
+.contaner div{
+    background-color: rgba(255, 108, 248, 0.466);
+    border: 2px solid black;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+}
